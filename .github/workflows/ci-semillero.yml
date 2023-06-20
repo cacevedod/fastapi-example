@@ -2,7 +2,7 @@ name: CI Semillero
 
 on:
   push:
-    branches: [ "semillero20232" ]
+    branches: [ "semillero20232-1" ]
 
 env:
   REGISTRY: docker.io
